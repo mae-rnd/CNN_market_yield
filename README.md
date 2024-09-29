@@ -27,3 +27,5 @@ pip install tensorflow pandas numpy matplotlib scikit-learn jupyter
 `/data ` : raw CSV files and Apache Hop pipelines and workflow to create `dataset.csv`
 
 `/model ` : trained model
+
+![téléchargement](https://github.com/user-attachments/assets/1d269eaa-5683-4da9-ba3b-9e74fc5b330e)
