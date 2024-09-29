@@ -28,4 +28,5 @@ pip install tensorflow pandas numpy matplotlib scikit-learn jupyter
 
 `/model ` : trained model
 
-![téléchargement](https://github.com/user-attachments/assets/1d269eaa-5683-4da9-ba3b-9e74fc5b330e)
+![téléchargement](https://github.com/user-attachments/assets/51140e68-70d0-488a-bca3-ff6f10250095)
+![téléchargement (1)](https://github.com/user-attachments/assets/d9e8834c-6ed3-4009-8a39-f43b29cddd59)
